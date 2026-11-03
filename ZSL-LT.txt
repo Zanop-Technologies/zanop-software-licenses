@@ -1,0 +1,24 @@
+Zanop Software License | Limited Time
+Version 1.0
+November 3, 2026
+
+=====================================
+AUTHOR'S NOTE:
+Zanop Technologies and all of its sister projects are not liable
+for any jargon that is either misunderstood, this license is not 
+open-source approved. If you do not understand legal jargon, please
+get legal aid.
+=====================================
+
+Copyright (c) <YEAR> <YOUR NAME>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this Software and associated documentation files, to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, and distribute the Software, subject to the following conditions:
+
+1. The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+2. Limited Time Restriction: The Software may not be used for any Commercial Use (including SaaS, paid products, or revenue generation) until the Fallback Date. You must provide proper and explicit credit to the original author(s) in all distributions. The "Fallback Date" is defined as <INSERT NUMBER> years from the initial publication date.
+
+3. The Fallback Protocol: Upon reaching the Fallback Date, this License (ZSL-LT) is automatically revoked and replaced, in its entirety, by the <MIT / Apache 2.0 / BSD 3-Clause> License. From the Fallback Date forward, the Software shall be governed exclusively by the terms of the Fallback License. No action is required by the original author(s) or the user to trigger this transition. It is automatic and legally binding.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY.

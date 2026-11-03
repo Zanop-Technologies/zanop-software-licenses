@@ -1,0 +1,25 @@
+Zanop Software License Permissive & Credited Use
+November 3, 2026
+
+=====================================
+AUTHORS NOTE:
+Zanop Technologies and all of its sister projects are not liable
+for any jargon that is either misunderstood, this license is not 
+open-source approved. If you do not understand legal jargon, please
+get legal aid.
+=====================================
+
+Copyright <YEAR> <YOUR NAME>
+
+Permission is hereby granted, free of charge, to use, copy, modify, merge, publish, and distribute the Software, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies.
+
+Additional Mandatory Provisions:
+
+Credited Use Restriction: The Software may be used for any purpose, including commercial purposes, provided that proper and explicit credit is given to the original author(s). "Proper credit" means the inclusion of the original author's name, the name of the Software, and a link or reference to the original repository or website in any derivative works, distributions, or public-facing uses of the Software.
+
+No Sublicensing: You may not sublicense the Software. Any distribution of the Software must be under the terms of this exact license.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY.
