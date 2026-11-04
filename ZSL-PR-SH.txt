@@ -23,3 +23,35 @@ No Sublicensing: You may not sublicense the Software. Any distribution of the So
 
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
 IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY.
+
+ADDITIONAL TERMS AND CLARIFICATIONS:
+
+1. Definitions and Scope.
+"Commercial Use" includes using the Software, or a work incorporating it, in a transaction or activity primarily intended to obtain money, business advantage, or other commercial benefit. Examples include selling copies, charging subscription or access fees, offering the Software as part of a paid service, licensing access for a fee, or using it as a material component of a revenue-generating product or service. These examples are illustrative and do not narrow the general restriction above.
+
+2. Permitted Non-Commercial Activities.
+Subject to every other term of this License, You may use, copy, study, modify, and share the Software for personal, educational, research, hobby, and other non-commercial purposes. You may make modifications for Your own non-commercial use and may share those modifications without charging for the Software or access to it. Any distribution must retain the notices and this License.
+
+3. No Indirect Commercial Use.
+You must not avoid the restriction by routing payment through another person, organization, platform, donation arrangement, advertising arrangement, or related service. A use may be commercial even if the Software itself is offered without a separate price, where the use is intended to promote, support, or materially benefit a commercial activity.
+
+4. Incidental Costs.
+A person distributing the Software must not charge a fee that is in substance payment for the Software or access to it. A reasonable charge solely to recover the actual cost of a physical medium or delivery may be distinguished from a charge for the Software itself, but this clause does not create a general right to sell copies or services involving the Software.
+
+5. No Sublicensing or Alternative Terms.
+You may not sublicense the Software or distribute it under a different license. You may include it in a larger non-commercial collection or project only if recipients receive this License and the original notices, and the larger distribution does not grant rights that conflict with this License.
+
+6. Notices and Modifications.
+You must retain the copyright notice, permission notice, and this License in all copies or substantial portions of the Software. If You modify the Software, You may add a separate notice describing Your changes, but You must not remove or misrepresent the original notices or suggest that the original author created Your modifications.
+
+7. No Endorsement.
+This License does not grant permission to use the name, logo, or marks of Zanop Technologies or any author to imply sponsorship or endorsement. Factual attribution required by this License is permitted.
+
+8. Termination.
+Your rights under this License terminate automatically if You materially fail to comply with its terms. Upon termination, You must stop using and distributing the Software under the permissions granted here. Rights may be reinstated if the violation is corrected, to the extent permitted by applicable law and unless the copyright holder states otherwise.
+
+9. Reservation of Rights.
+The copyright holder retains all rights not expressly granted by this License. No ownership of the Software is transferred to You.
+
+10. Severability and Waiver.
+If any provision is found unenforceable, the remaining provisions shall remain in effect to the extent permitted by law. A delay or failure to enforce a provision does not waive that provision.

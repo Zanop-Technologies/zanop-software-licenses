@@ -58,3 +58,35 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 9. Limitation of Liability.
 IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+ADDITIONAL TERMS AND CLARIFICATIONS:
+
+10. Attribution Standards.
+Credit must be reasonably prominent, accurate, and sufficient to identify the original author, the Software, and the original source. Where a preferred attribution notice or designated alias is supplied with the Software, You must preserve and use it. Attribution must not falsely suggest that the original author has reviewed, approved, sponsored, or endorsed Your version.
+
+11. Attribution Placement.
+For source distributions, retain attribution in the source tree or accompanying legal-notices materials. For compiled distributions, include it in documentation, an about screen, or another customary notices location. For hosted services, provide an accessible credit and source-notice location in the interface or documentation.
+
+12. Non-Commercial Scope.
+Commercial Use includes selling copies, charging subscription or access fees, providing paid hosting or SaaS access, incorporating the Software into a paid product, or using it to obtain commercial advantage. The restriction applies whether payment is collected directly or through an intermediary, affiliate, platform, advertising arrangement, or bundled service.
+
+13. Permitted Non-Commercial Sharing.
+You may share the Software and modifications without charge for personal, educational, research, and other non-commercial purposes, provided that the attribution, public-source, and notice requirements are met. You may not impose a fee that is in substance payment for access to the Software.
+
+14. Public Corresponding Source.
+The source made available under Section 4 must be the complete corresponding source for the version You modify, distribute, or host. It must include the files and build materials reasonably necessary to inspect, modify, and reproduce that version. It must be accessible to the public without a fee or account requirement and must identify the relevant version.
+
+15. Hosted Service Source Link.
+A hosted service must provide a clear and visible link to the corresponding public source from its interface or accompanying documentation. The link must lead to the correct source version, not merely to an unrelated upstream repository or a general organization page.
+
+16. No Additional Restrictions.
+You must not add legal or technical restrictions that prevent recipients from exercising the rights granted by this License. You may add separate notices for Your own contributions, provided that they do not remove, contradict, or misrepresent the original terms.
+
+17. No Endorsement.
+This License does not grant permission to use the names, logos, or trademarks of Zanop Technologies, the original author, or contributors to imply sponsorship or endorsement. The required factual attribution is permitted.
+
+18. Reservation of Rights and Severability.
+All rights not expressly granted are reserved by the copyright holder. If a provision is held unenforceable, the remaining provisions continue to apply to the extent permitted by law. A failure to enforce a provision does not waive future enforcement.
+
+19. Termination Effects.
+Upon termination, You must stop exercising the permissions granted under this License and stop distributing non-compliant copies. Where permitted by applicable law, rights may be reinstated after the violation is corrected, unless the copyright holder has expressly terminated them permanently.

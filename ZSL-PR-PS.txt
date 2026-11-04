@@ -45,3 +45,32 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMA
 
 6. Termination.
 Your rights under this License will terminate automatically if You fail to comply with any of the terms and conditions herein. Upon termination, You must cease all use, distribution, and hosting of the Software and destroy all copies in your possession.
+
+ADDITIONAL TERMS AND CLARIFICATIONS:
+
+7. Corresponding Source.
+"Corresponding Source" means the preferred form of the work for making modifications, together with the source files, build scripts, interface definitions, dependency information, and other materials reasonably necessary to modify and build the covered version. It does not require disclosure of unrelated systems or independent software that is not derived from or incorporated into the Software.
+
+8. Public Availability.
+The required source must be made available to the public without a fee, account requirement, or discriminatory access restriction. It must be accessible from a stable public location, such as a public source repository or project website. You must keep the source available for as long as You make the relevant modified or hosted version available to users, subject to reasonable service interruptions and repository migrations.
+
+9. Hosted Versions.
+If You operate a website, application, network service, or other interactive service that allows users to interact with the Software, You must provide a clearly visible source-code link in the service interface or accompanying documentation. The link must identify the corresponding version and lead to the source required by this License. A link to an unrelated upstream project or an incomplete source snapshot does not satisfy this requirement.
+
+10. Modified Versions.
+You may make and distribute modified versions, including commercial versions, provided that the corresponding source for the version distributed or hosted is publicly viewable under this License. You may identify Your own modifications and authorship separately. You must not imply that the original author endorses the modified version.
+
+11. Build and Deployment Materials.
+Where build scripts, configuration files, interface definitions, or deployment instructions are necessary to reproduce or modify the covered version, those materials form part of the Corresponding Source. You are not required to publish passwords, private keys, personal data, or unrelated confidential information. Remove secrets and replace them with safe configuration examples before publication.
+
+12. Notices and License Copy.
+Every distribution of the Software or a substantial portion of it must include this License and the original copyright and permission notices. You may add notices describing changes, but may not remove or alter the notices identifying the original Software or its authors.
+
+13. No Additional Restrictions.
+You may not impose legal or technical restrictions that prevent recipients from exercising the rights granted by this License. You may charge for copies, distribution, support, or other services where otherwise permitted, but the source-availability requirements continue to apply.
+
+14. No Endorsement.
+This License does not grant permission to use any author's or organization's name, logo, or trademarks to imply sponsorship or endorsement. Factual attribution and source references required by this License are permitted.
+
+15. Severability and Waiver.
+If a provision is held unenforceable, the remaining provisions shall remain in effect to the extent permitted by law. A failure to enforce a provision does not waive the right to enforce it later.

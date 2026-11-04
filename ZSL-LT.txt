@@ -22,3 +22,44 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
 IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY.
+
+ADDITIONAL TERMS AND CLARIFICATIONS:
+
+4. Definitions.
+"Initial Publication Date" means the date on which the copyright holder first makes the covered version publicly available under this License, as identified in the accompanying release, repository record, or written notice. "Fallback Date" means the date calculated by adding the selected number of complete calendar years to the Initial Publication Date. "Fallback License" means the one specific license selected in Section 3 after the alternatives have been resolved by the copyright holder.
+
+5. Duration.
+The limited-time restriction applies from the Initial Publication Date until the Fallback Date. The number of years must be completed in the license text before distribution. If the date falls on a day that does not exist in the target year, the fallback date is the final calendar day of that month. The copyright holder should publish the exact calendar date to avoid uncertainty.
+
+6. Commercial Activity Before the Fallback Date.
+Before the Fallback Date, You must not use the Software or a substantial portion of it for commercial advantage or monetary compensation. This includes selling copies, offering paid access, incorporating it into a paid product, or operating a paid hosted service based on it. Non-commercial use remains subject to the other terms of this License.
+
+7. Attribution.
+Every copy or substantial portion distributed before or after the Fallback Date must retain the copyright notice and permission notice. Before the Fallback Date, distributions must also provide proper and explicit credit to the original author(s), the Software name, and the original repository or website where available.
+
+8. Distribution and Modifications.
+You may copy, modify, and distribute the Software subject to this License. Before the Fallback Date, any distribution must include this License and the notices required by it. Your modifications do not change the Initial Publication Date or independently restart the duration unless the copyright holder expressly publishes a separate version under a new license.
+
+9. Selection of the Fallback License.
+Before publication, the copyright holder must select exactly one fallback license and identify it unambiguously. The alternatives shown in Section 3 are placeholders and are not a completed selection. The full text or an authoritative copy of the selected fallback license should be identified so recipients can determine the terms that will apply after the transition.
+
+10. Automatic Transition.
+On the Fallback Date, the selected Fallback License applies to the Software prospectively without requiring a separate acceptance or action by each recipient. The copyright holder should retain a dated copy of this License and a record of the selected fallback license so the transition can be verified. Rights and obligations that accrued before the Fallback Date are not erased merely because the governing license changes.
+
+11. No Ambiguous Substitution.
+The fallback license must not be left as a list of alternatives. A selection such as "MIT / Apache 2.0 / BSD 3-Clause" does not identify a single governing license. The copyright holder must replace that text with one exact license name and version, and should state whether the fallback license applies to the whole Software or only to a clearly identified version.
+
+12. Notices.
+You must not remove or alter copyright notices, license notices, or other proprietary notices supplied with the Software. You may add a notice identifying Your modifications and the date they were made, provided that it does not misrepresent the original authorship or the applicable license.
+
+13. Termination.
+Your rights under this License terminate automatically if You fail to comply with its terms. Upon termination, You must stop exercising the permissions granted by this License and stop distributing non-compliant copies. Rights may be reinstated after correction to the extent permitted by applicable law and unless the copyright holder expressly states otherwise.
+
+14. Disclaimer and Liability.
+The Software is provided without warranties or guarantees to the maximum extent permitted by applicable law. Nothing in this License is intended to exclude a liability that cannot lawfully be excluded.
+
+15. Interpretation and Severability.
+If a provision is held unenforceable, the remaining provisions continue to apply to the extent permitted by law. A failure to enforce a provision on one occasion does not waive the right to enforce it later.
+
+DRAFT COMPLETION NOTE:
+Before treating this file as a final license, replace "<INSERT NUMBER>" with a definite duration and replace "<MIT / Apache 2.0 / BSD 3-Clause>" with one specific fallback license. Confirm the Initial Publication Date and exact Fallback Date. These placeholders are intentionally preserved and require the copyright holder's decision.

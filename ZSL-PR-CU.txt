@@ -23,3 +23,35 @@ No Sublicensing: You may not sublicense the Software. Any distribution of the So
 
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
 IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY.
+
+ADDITIONAL TERMS AND CLARIFICATIONS:
+
+1. Meaning of Credit.
+For purposes of this License, credit must be reasonably noticeable, accurate, and sufficient to identify the original author and the Software. Where the original author has supplied a preferred name, project name, or attribution notice, that information should be used. A repository URL, project website, or other stable source reference must accompany the attribution when one is available. Credit must not be presented in a way that falsely suggests that the original author endorses You, Your organization, or Your product.
+
+2. Placement of Credit.
+For a source-code distribution, the credit and copyright notice must remain in the relevant source files or accompanying license and notice materials. For a compiled or packaged distribution, the notices may be placed in a documentation file, an about screen, a credits page, or another location customarily used for legal notices. For a hosted service, the credit must be available in a reasonably accessible public-facing location, such as an about page or documentation page. If the format of a particular distribution makes one placement impracticable, use another reasonable placement that preserves visibility.
+
+3. Derivative Works.
+You may modify the Software, combine it with other software, and distribute the resulting work, including for commercial purposes, provided that You continue to satisfy the attribution and notice requirements of this License. Your modifications do not remove the original author's attribution rights. You may identify Your own contributions separately, but must not claim authorship of the original Software.
+
+4. Accurate Representation.
+You must not remove, obscure, falsify, or materially alter the required attribution, copyright notice, or license notice. You may add notices identifying Your changes, the date of modification, and the identity of subsequent contributors, provided that those additions do not misrepresent the origin of the original Software.
+
+5. Distribution of Notices.
+When distributing a copy or substantial portion of the Software, You must include a copy of this License and all copyright and permission notices supplied with the Software. If You distribute the Software as part of a larger product, the notices may be included in the product's accompanying legal-notices materials.
+
+6. No Endorsement.
+The grant of permission under this License does not authorize You to use the Zanop Technologies name, the original author's name, project logos, or trademarks to advertise or imply sponsorship, partnership, or endorsement, except to the limited extent necessary to provide the attribution required by this License.
+
+7. No Sublicensing.
+The permissions granted to You are provided directly under this License. You may not issue a separate sublicense purporting to replace, remove, or expand these terms. You may distribute the Software only while preserving this License and the notices required by it.
+
+8. Termination for Non-Compliance.
+Any rights granted under this License terminate automatically if You fail to comply with its conditions. If Your rights terminate, You must stop distributing the non-compliant copies and stop exercising the permissions granted by this License. Rights may be reinstated if the relevant violation is corrected, to the extent permitted by applicable law and unless the copyright holder has expressly terminated them permanently.
+
+9. Reservation of Rights.
+All rights not expressly granted by this License are reserved by the copyright holder. This License does not transfer ownership of the Software or any intellectual-property rights in it.
+
+10. Interpretation.
+If a provision of this License is held unenforceable, the remaining provisions shall continue to apply to the extent permitted by law. A failure to enforce a provision on one occasion does not waive the right to enforce it later.
